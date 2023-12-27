@@ -5,6 +5,9 @@ CVPR, PNP: Robust Learning from Noisy Labels by Probabilistic Noise Prediction
 ## 2021
 A survey of label-noise Representation learning: Past, Present and Future
 CVPR, Improving Unsupervised Image Clustering With Robust Learning
+ICML, Confidence scores make instance-dependent Label-noise learning possible
+CVPR, Jo-SRC: A contrastive approach for combating noisy labels
+
 ## 2020
 NIPS, What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation: estimate closely-related sampled influence and memorization through long-tailed distribution
 NIPS, A topological Filter for Learning with Label Noise: detect clean data with high probability
@@ -14,5 +17,8 @@ WSDM, Spring- Electrical models for link prediction
 ## 2018
 NIPS, Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels
 ICML, Dimensionality-Driven learning with noisy labels, (need to read again for constructing images)
+## 2017
+ICLR, Understanding deep learning requires rethinking generalization (Google brain)
 ## 2010 
 Unsupervised Feature Selection for Multi-Cluster Data: good example of the time with Laplace and Clustering  using L1, eigen
+Vitaly Feldman, Harvard, Optimal Hardness Results for Maximizing Agreements with Monomials
