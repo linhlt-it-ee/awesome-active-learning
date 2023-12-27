@@ -34,3 +34,5 @@
 ##### Unsupervised Feature Selection for Multi-Cluster Data: good example of the time with Laplace and Clustering  using L1, eigen
 ##### Vitaly Feldman, Harvard, Optimal Hardness Results for Maximizing Agreements with Monomials
 ##### A theory of learning from different domains: H-divergence (not finish reading)
+## 2001
+##### Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data, https://www.cs.columbia.edu/~jebara/6772/papers/crf.pdf
