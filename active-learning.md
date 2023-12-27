@@ -10,6 +10,7 @@ ICLR, Information gain propagation: a new way to graph active learning with soft
 ACM, A survey of Deep Active Learning
 VLDB, LANCET: Labeling Complex Data at Scale: covariate-shift
 **NIPS, Diversity Enhanced Active Learning with Strictly Proper Scoring Rules: negative mean proper scores and mean objective cost of uncertainty **
+ICLR, Similarity Search for Efficient Active learing and Search of Rare concepts: good paper with theoretical explanation
 ## 2020
 CVPR, Contextual Diversity for Active Learning: KL divergence with diverse contexts
 AISTAT, Stopping criterion for active learning based on deterministic generalization bounds: Bayes-based
